@@ -94,6 +94,8 @@
 
 # Spider（爬虫）
 
+scrapy、pyspider、appium、beautiful soup、selenium、uiautomator2等爬虫技术。漏洞信息、威胁情报、舆情分析、自媒体平台信息、电商平台商品信息等爬虫。
+
 ## 目录结构
 
 * spider_framework（爬虫框架和技术）
