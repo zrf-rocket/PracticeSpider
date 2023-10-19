@@ -1,0 +1,2 @@
+pyspider==0.3.10
+scrapy==2.11.0
